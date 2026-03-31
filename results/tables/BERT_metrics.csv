@@ -1,0 +1,7 @@
+Model,Class,Precision,Recall,F1-Score,Support
+BERT-base Fine-tuned,Not Hate,0.90,0.86,0.88,400
+BERT-base Fine-tuned,Hate Speech,0.87,0.91,0.89,400
+BERT-base Fine-tuned,Accuracy,,,0.88,800
+BERT-base Fine-tuned,Macro Avg,0.88,0.88,0.88,800
+BERT-base Fine-tuned,Weighted Avg,0.88,0.88,0.88,800
+BERT-base Fine-tuned,AUC-ROC,0.9332,,,

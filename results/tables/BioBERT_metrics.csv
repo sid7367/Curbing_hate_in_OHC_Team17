@@ -1,0 +1,7 @@
+Model,Class,Precision,Recall,F1-Score,Support
+BioBERT Fine-tuned,Not Hate,0.84,0.87,0.85,400
+BioBERT Fine-tuned,Hate Speech,0.86,0.83,0.85,400
+BioBERT Fine-tuned,Accuracy,,,0.85,800
+BioBERT Fine-tuned,Macro Avg,0.85,0.85,0.85,800
+BioBERT Fine-tuned,Weighted Avg,0.85,0.85,0.85,800
+BioBERT Fine-tuned,AUC-ROC,0.9261,,,

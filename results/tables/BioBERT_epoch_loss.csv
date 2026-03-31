@@ -1,0 +1,4 @@
+Model,Epoch,Training Loss,Validation Loss
+BioBERT Fine-tuned,1,0.418043,0.451954
+BioBERT Fine-tuned,2,0.284441,0.405037
+BioBERT Fine-tuned,3,0.188304,0.496133

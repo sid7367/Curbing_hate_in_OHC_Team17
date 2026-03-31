@@ -1,0 +1,7 @@
+Model,Class,Precision,Recall,F1-Score,Support
+LR + TF-IDF,Not Hate,0.97,0.93,0.95,4627
+LR + TF-IDF,Hate Speech,0.33,0.60,0.42,282
+LR + TF-IDF,Accuracy,,,0.91,4909
+LR + TF-IDF,Macro Avg,0.65,0.76,0.69,4909
+LR + TF-IDF,Weighted Avg,0.94,0.91,0.92,4909
+LR + TF-IDF,AUC-ROC,0.8649,,,

@@ -1,0 +1,4 @@
+Model,Epoch,Training Loss,Validation Loss
+BERT-base Fine-tuned,1,0.419780,0.439909
+BERT-base Fine-tuned,2,0.244724,0.365606
+BERT-base Fine-tuned,3,0.133850,0.450467
